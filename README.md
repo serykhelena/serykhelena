@@ -2,6 +2,11 @@
 
 ⚡ Fun fact: Ladybugs produce antifreeze :sweat_smile:
 
+### A bit of Statistics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=serykhelena&show_icons=true&count_private=true&theme=radical)
+
+
 <!--
 **serykhelena/serykhelena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
