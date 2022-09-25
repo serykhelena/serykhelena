@@ -1,14 +1,14 @@
-### Hi there 👋
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=2000&pause=1000&color=0CE82B&background=14181e&center=true&vCenter=true&multiline=true&width=1200&height=125&lines=Hi+there!;" alt="Typing SVG" /></a>
+</h1>
 
-⚡ Fun fact: Ladybugs produce antifreeze :sweat_smile:
+<a href="https://github.com/serykhelena/serykhelena">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serykhelena&hide=java,html,tex&bg_color=14181e&title_color=0CE82B&theme=radical&langs_count=3" />
+</a>
 
-
-:monocle_face: Programming Languages: <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
-<a href="https://en.cppreference.com/w/c/language"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=serykhelena&show_icons=true&count_private=true&theme=radical)
-
+<a href="https://github.com/serykhelena/serykhelena">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=serykhelena&show_icons=true&line_height=27&count_private=true&bg_color=14181e&title_color=0CE82B&theme=radical" />
+</a>
 
 
 <!--
