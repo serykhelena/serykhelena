@@ -2,9 +2,14 @@
 
 ⚡ Fun fact: Ladybugs produce antifreeze :sweat_smile:
 
-### A bit of Statistics
+#### Programming Languages
+
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+<a href="https://en.cppreference.com/w/c/language"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=serykhelena&show_icons=true&count_private=true&theme=radical)
+
 
 
 <!--
